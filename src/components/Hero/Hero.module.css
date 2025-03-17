@@ -1,0 +1,27 @@
+.heroTextContainer {
+  border-radius: 30px;
+  max-width: 720px;
+  max-height: 530px;
+  background-color: #f8f8f8;
+  padding: 98px 108px 64px;
+}
+.heroTitle {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1.16667;
+  letter-spacing: -0.02em;
+  color: #121417;
+  margin-bottom: 32px;
+}
+.heroTextSpan {
+  font-style: italic;
+  font-weight: 400;
+}
+.heroSubtitle {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.375;
+  letter-spacing: -0.02em;
+  color: #121417;
+  margin-bottom: 64px;
+}
