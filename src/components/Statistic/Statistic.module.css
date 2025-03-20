@@ -1,0 +1,27 @@
+.statisticContainer {
+  display: flex;
+  box-sizing: border-box;
+  justify-content: space-between;
+  gap: 100px;
+  padding: 40px 122px;
+  border: 1.5px dashed #9fb7ce;
+  border-radius: 30px;
+  min-width: 1312px;
+  height: 116px;
+}
+.statisticItem {
+  display: flex;
+  gap: 16px;
+}
+.statisticNumber {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.14286;
+  color: #121417;
+}
+.statisticText {
+  font-size: 14px;
+  line-height: 1.28571;
+  max-width: 74px;
+  color: rgba(18, 20, 23, 0.7);
+}

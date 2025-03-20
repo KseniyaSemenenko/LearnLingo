@@ -1,7 +1,7 @@
 .btn {
   border-radius: 12px;
   padding: 16px 88px;
-  width: 267px;
+  min-width: 267px;
   height: 60px;
   background-color: #9fb7ce;
   font-weight: 700;
@@ -9,4 +9,6 @@
   line-height: 1.55556;
   color: #121417;
   border-color: transparent;
+}
+.started {
 }

@@ -13,7 +13,7 @@ export default function Hero() {
           Elevate your language proficiency to new heights by connecting with
           highly qualified and experienced tutors.
         </p>
-        <Button text="Get started" />
+        <Button text="Get started" type="button" variant="started" />
       </div>
     </>
   );

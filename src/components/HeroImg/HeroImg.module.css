@@ -1,0 +1,19 @@
+.heroImgContainer {
+  position: relative;
+  border-radius: 30px;
+  min-width: 568px;
+  min-height: 530px;
+  background-color: #bfd6ea;
+}
+.heroGirl {
+  position: absolute;
+  top: 80px;
+  right: 114px;
+  min-width: 339px;
+  min-height: 339px;
+}
+.heroMac {
+  position: absolute;
+  top: 354px;
+  right: 104px;
+}

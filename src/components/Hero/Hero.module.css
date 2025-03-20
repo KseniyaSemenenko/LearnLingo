@@ -3,7 +3,7 @@
   max-width: 720px;
   max-height: 530px;
   background-color: #f8f8f8;
-  padding: 98px 108px 64px;
+  padding: 98px 108px 98px 64px;
 }
 .heroTitle {
   font-weight: 500;

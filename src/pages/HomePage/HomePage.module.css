@@ -1,0 +1,8 @@
+.containerHero {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.homeContainer {
+  padding: 20px 64px 32px;
+}
